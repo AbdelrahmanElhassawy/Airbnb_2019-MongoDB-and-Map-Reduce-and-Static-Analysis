@@ -1,0 +1,6 @@
+borough,total_listings,avg_price,min_price,max_price,avg_reviews
+Manhattan,21661,196.88,0,10000,20.99
+Brooklyn,20104,124.38,0,10000,24.2
+Queens,5666,99.52,10,10000,27.7
+Bronx,1091,87.5,0,2500,26.0
+Staten Island,373,114.81,13,5000,30.94
